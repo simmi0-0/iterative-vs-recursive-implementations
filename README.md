@@ -28,5 +28,5 @@ Tower of Hanoi is a puzzle where you move disks from one rod to another, followi
 <img width="1132" height="850" alt="image" src="https://github.com/user-attachments/assets/b5a465fc-5a6f-4303-8e15-dc93083fbde2" />
 
 ## Conclusion
-- Recursion is elegant but limited by stack depth.
-- Iteration avoids stack issues but becomes impractical for large inputs due to exponential growth.
+- Maximum input your recursive code can handle is ~20 disks before crashing.
+- Maximum input your iterative code can handle is ~25–30 disks
